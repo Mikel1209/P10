@@ -2,6 +2,7 @@ package com.example.mikea.p10;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.ImageButton;
 
 public class Segundo extends AppCompatActivity {
 
